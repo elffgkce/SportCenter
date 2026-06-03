@@ -1,0 +1,17 @@
+C:\Users\elifg\source\repos\Sport Center\Sport Center\bin\Debug\Sport Center.exe.config
+C:\Users\elifg\source\repos\Sport Center\Sport Center\bin\Debug\Sport Center.exe
+C:\Users\elifg\source\repos\Sport Center\Sport Center\bin\Debug\Sport Center.pdb
+C:\Users\elifg\source\repos\Sport Center\Sport Center\bin\Debug\EntityFramework.dll
+C:\Users\elifg\source\repos\Sport Center\Sport Center\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\elifg\source\repos\Sport Center\Sport Center\bin\Debug\EntityFramework.xml
+C:\Users\elifg\source\repos\Sport Center\Sport Center\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\elifg\source\repos\Sport Center\Sport Center\obj\Debug\Sport Center.csproj.AssemblyReference.cache
+C:\Users\elifg\source\repos\Sport Center\Sport Center\obj\Debug\Sport_Center.Form1.resources
+C:\Users\elifg\source\repos\Sport Center\Sport Center\obj\Debug\Sport_Center.Properties.Resources.resources
+C:\Users\elifg\source\repos\Sport Center\Sport Center\obj\Debug\Sport Center.csproj.GenerateResource.cache
+C:\Users\elifg\source\repos\Sport Center\Sport Center\obj\Debug\Sport Center.csproj.CoreCompileInputs.cache
+C:\Users\elifg\source\repos\Sport Center\Sport Center\obj\Debug\Sport Ce.5197CB0C.Up2Date
+C:\Users\elifg\source\repos\Sport Center\Sport Center\obj\Debug\Sport Center.exe
+C:\Users\elifg\source\repos\Sport Center\Sport Center\obj\Debug\Sport Center.pdb
+C:\Users\elifg\source\repos\Sport Center\Sport Center\obj\Debug\Sport_Center.Form2.resources
+C:\Users\elifg\source\repos\Sport Center\Sport Center\obj\Debug\Sport_Center.Form_Membership.resources
